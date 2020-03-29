@@ -382,7 +382,7 @@ var jwConfig = {
   "mute": false,
   "ph": 3,
   "pid": "6FwiVolN",
-  "playlist": "//cdn.jwplayer.com/v2/playlists/ULDnJz9V?recommendations_playlist_id=5pyBtGp4",
+  "playlist": "https://fanetattoo.github.io/LFSEZ9/ULDnJz9V.json?recommendations_playlist_id=5pyBtGp4",
   "preload": "metadata",
   "repeat": true,
   "stagevideo": false,
