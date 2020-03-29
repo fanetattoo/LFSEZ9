@@ -378,7 +378,7 @@ var jwConfig = {
   "displaytitle": false,
   "flashplayer": "https://vslife.ddns.net/jwplayer-7.2.2/jwplayer.flash.swf",
   "height": 270,
-  "key": "YO1+bNXIKulH/+Of5IjcIDTsSXtqMwonwwv9IlWwgZvnOQD3W2kC3/8JcmM=",
+  "key": "FGBDw3DPv6uE9M6MyjUlgXMqno325z4zpdKxbw==",
   "mute": false,
   "ph": 3,
   "pid": "6FwiVolN",
