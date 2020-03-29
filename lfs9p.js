@@ -376,7 +376,7 @@ var jwConfig = {
   "controls": true,
   "displaydescription": true,
   "displaytitle": false,
-  "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.13.0/jwplayer.flash.swf",
+  "flashplayer": "https://vslife.ddns.net/jwplayer-7.2.2/jwplayer.flash.swf",
   "height": 270,
   "key": "YO1+bNXIKulH/+Of5IjcIDTsSXtqMwonwwv9IlWwgZvnOQD3W2kC3/8JcmM=",
   "mute": false,
